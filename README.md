@@ -1,1 +1,4 @@
-# A shopping website using HTML/CSS/Javascript and frameworks such as Spring, Hibernate, and Bootstrap, with Java as a backend.
+# Shopping website created using:
+* Frontend languages - HTML/CSS/Javascript
+* Frameworks - Spring, Hibernate, and Bootstrap,
+* Backend - H2 Database using Java programming language
